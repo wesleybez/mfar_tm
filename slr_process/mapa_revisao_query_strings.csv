@@ -1,0 +1,16 @@
+scopus,1,"""threat model""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",1583,
+,2,"""authentication""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",53711,
+,3," ""multi-factor authentication""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",754,
+,4,"""lpwan""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",2157,
+,5,"""threat model""  AND  ""authentication""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",355,BIBLIOMETRIA
+,6,"""threat model""  AND  ""multi-factor authentication""  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",23,RSL
+,7,"""threat model""  AND  ( ""lpwan""  OR  lora  OR  lorawan  OR  sigfox  OR  lte  OR  ltm  OR  nbiot )  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",26,
+,8,"""threat model""  AND  ""authentication""  AND  ( ""lpwan""  OR  lora  OR  lorawan  OR  sigfox  OR  lte  OR  ltm  OR  nbiot )  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",14,RELATED
+,9,"""threat model""  AND  ""multi-factor authentication""  AND  ( ""lpwan""  OR  lora  OR  lorawan  OR  sigfox  OR  lte  OR  ltm  OR  nbiot )  AND  PUBYEAR  >  2018  AND  ( LIMIT-TO ( DOCTYPE ,  ""ar"" )  OR  LIMIT-TO ( DOCTYPE ,  ""cp"" )  OR  LIMIT-TO ( DOCTYPE ,  ""re"" ) )  ",1,
+web of science,1,,,
+,2,,,
+,3,,,
+,4,,,
+,5,,,
+,6,"TS=(""theat model"" AND ""multi-factor authentication"")",0,
+,7,"TS=(""theat model"" AND authentication AND (lpwan OR lora OR lorawan OR sigfox OR lte OR ltm OR nbiot))",0,
